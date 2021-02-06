@@ -1,6 +1,6 @@
 # Start
 
-Welcome to My First Repo.  
+Welcome to my First Repo.  
 Learning Git is going well so far.  
 The third line.  
 I added this line in the update-readme branch.  
