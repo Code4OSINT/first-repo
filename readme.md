@@ -1,34 +1,25 @@
-# Start
+# Mark = Python4OSINT
 
-Welcome to my First Repo.  
-Learning Git is going well so far.  
-The third line.  
-I added this line in the update-readme branch.  
-It's pretty windy outside.
+### Geography
 
-## This is a large heading
+I live somewhere in Europe.
 
-### This is a smaller heading
+### Reading
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Some of my favorite books are:
 
-- This is
-- an unordered
-- list
+- *Python Tricks* by Dan Bader  
+- *Automate the Boring STuff* by Al Sweigart  
+- *The Pragmatic Programmer* by David Thomas and Andrew Hunt 
 
-1. This is
-2. an ordered
-3. list
+### Food
 
-Here is `some code` in the middle of a sentence.
+Last night I dreamt about eating in these restaurants:
 
-```python
-This is
-a block
-of code
-```
+1. Noma in Copenhagen.
+2. De Librije in Zwolle.
+3. Gaggan in Bangkok.
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Contact
+
+The best way to get in touch with me is [on Twitter](https://twitter.com/python4osint).
