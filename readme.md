@@ -1,3 +1,10 @@
+#Start
+Welcome to My First Repo
+Learning Git is going well so far.
+The third line.
+I added this line in the update-readme branch.
+It's pretty windy outside.
+
 # This is a large heading
 
 ## This is a smaller heading
@@ -17,12 +24,10 @@ A local *habitation* and a **name**.
 
 Here is `some code` in the middle of a sentence.
 
-```
+```python
 This is
 a block
 of code
 ```
 
 Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
