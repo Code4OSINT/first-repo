@@ -1,13 +1,14 @@
-#Start
-Welcome to My First Repo
-Learning Git is going well so far.
-The third line.
-I added this line in the update-readme branch.
-It's pretty windy outside.  
+# Start
 
-# This is a large heading
+Welcome to My First Repo.\
+Learning Git is going well so far.\
+The third line.\
+I added this line in the update-readme branch.\
+It's pretty windy outside.
 
-## This is a smaller heading
+## This is a large heading
+
+### This is a smaller heading
 
 And as **imagination** bodies forth,
 The forms of things *unknown*, the poet’s pen,
