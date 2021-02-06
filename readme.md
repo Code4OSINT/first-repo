@@ -1,4 +1,6 @@
-# Mark = Python4OSINT
+# Mark aka Python4OSINT
+
+## Programming Python for #OSINT
 
 ### Geography
 
@@ -9,8 +11,8 @@ I live somewhere in Europe.
 Some of my favorite books are:
 
 - *Python Tricks* by Dan Bader  
-- *Automate the Boring STuff* by Al Sweigart  
-- *The Pragmatic Programmer* by David Thomas and Andrew Hunt 
+- *Automate the Boring Stuff* by Al Sweigart  
+- *The Pragmatic Programmer* by David Thomas and Andrew Hunt  
 
 ### Food
 
