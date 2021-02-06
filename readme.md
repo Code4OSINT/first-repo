@@ -1,9 +1,9 @@
 # Start
 
-Welcome to My First Repo.\
-Learning Git is going well so far.\
-The third line.\
-I added this line in the update-readme branch.\
+Welcome to My First Repo.  
+Learning Git is going well so far.  
+The third line.  
+I added this line in the update-readme branch.  
 It's pretty windy outside.
 
 ## This is a large heading
